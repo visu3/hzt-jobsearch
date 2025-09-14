@@ -1,0 +1,6 @@
+supabase config:
+setup 
+organization name: hzt-jobsearch
+Database password: HZT@jobsearch123
+
+admin user in auth.users : admin@hzt.com / HZT@admin123
